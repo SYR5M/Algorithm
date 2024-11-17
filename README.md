@@ -64,18 +64,23 @@ Outputs include:
 The path found by each algorithm.
 Graph visualizations with highlighted paths, edge weights, and reasoning.
 Use Cases
+
 A*: GPS navigation, logistics, and weighted graphs.
 BFS: Social networks, unweighted mazes, and shortest path by edges.
 DFS: Puzzle-solving, cycle detection, and graph traversal.
+
 Example Outputs
+
 A*:
 Path: A -> B -> D -> E
 Total Cost: 6
+
 BFS:
 Path: A -> C -> E
+
 DFS:
 Path: A -> B -> D -> C -> E
-Future Enhancements
-Add more graph types and scenarios.
-Include dynamic visualizations.
-Compare performance metrics like time complexity.
+
+![BFS](https://github.com/user-attachments/assets/a60bed08-4aff-452e-88df-88e1b116cc9e)
+![Astar](https://github.com/user-attachments/assets/16cf6a9d-6811-4d74-817c-b3a2d5bdcfce)
+![DFS](https://github.com/user-attachments/assets/d6222d4f-dff7-4396-a016-ad0e95aa8821)
